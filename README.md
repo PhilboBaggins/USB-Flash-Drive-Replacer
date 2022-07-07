@@ -2,7 +2,7 @@
 
 A small PCB designed to fit within old USB flash drive enclosures, replacing the original PCB. So far the current version is just a simple prototype meant to test the physical since and only has a single LED but future designs will do something wonderful.
 
-Designed using [EasyEDA](https://easyeda.com/).
+TODO: Add photo of completed board
 
 ## Licence
 
